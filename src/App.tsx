@@ -27,7 +27,7 @@ function App() {
 
 export default App;
 
-<!
+/*
 import './App.css';
 import Image from './HBB.jpg';
 
@@ -51,3 +51,4 @@ function App() {
 }
 
 export default App;
+*/
