@@ -7,7 +7,7 @@ const mainStyle = {
   background: 'rgb(30,30,30)',
 };
 const imageStyle = {
-  maxWidth: '100%',
+  maxWidth: '200%',
 };
 
 function App() {
