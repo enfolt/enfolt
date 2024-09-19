@@ -1,5 +1,5 @@
 import './App.css';
-import Image from './background.jpeg';
+import Image from './HBB.jpg';
 
 const mainStyle = {
   display: 'flex',
